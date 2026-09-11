@@ -1,5 +1,3 @@
-Shell
-$ neofetch --user 
 ```
   LOGAN SILVERS @ COLUMBIA-CHICAGO
   --------------------------------
