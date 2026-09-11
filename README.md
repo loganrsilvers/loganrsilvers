@@ -10,16 +10,6 @@ $ neofetch --user
   Location : Chicago, IL 📍
   Status   : Open to Junior Software Engineer Roles 🚀
 ```
-───────── [ SYSTEM MATRIX ] ─────────
-Plaintext
-```
-┌── LANGUAGES ───────────────────────────────────────────┐
-│ C#          [████████████████████░░░░] 80%             │
-│ SQL / MySQL [████████████████░░░░░░░░] 65%             │
-│ PHP         [██████████████░░░░░░░░░░] 60%             │
-│ HTML / CSS  [████████████████████░░░░] 80%             │
-└────────────────────────────────────────────────────────┘
-```
 ───────── [ FEATURED PROJECTS ] ─────────
 ```
 Plaintext
