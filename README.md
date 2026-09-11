@@ -2,13 +2,13 @@
 
 ```
  ░▒▓█ SYSTEM BOOT ... OK
- ░▒▓█ LOADING PROFILE: YOUR-USERNAME
+ ░▒▓█ LOADING PROFILE: loganrsilvers
  ░▒▓█ 01001000 01101001 00100001
 ```
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Your+Name;Software+Engineer;Building+things+that+ship;01001000 01100101 01101100 01101100 01101111" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=00FF41&style=flat-square&label=TRANSMISSIONS+RECEIVED)
+![Profile Views](https://komarev.com/ghpvc/?username=loganrsilvers&color=00FF41&style=flat-square&label=TRANSMISSIONS+RECEIVED)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=flat-square&logo=linkedin&logoColor=000)](https://linkedin.com/in/your-handle)
 [![Email](https://img.shields.io/badge/Email-00FF41?style=flat-square&logo=gmail&logoColor=000)](mailto:you@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=flat-square&logo=firefox&logoColor=000)](https://yoursite.dev)
@@ -28,7 +28,7 @@
    ║   █░░░░░░░░▀▀▀▀▀░░░░░░░█   ║
    ║   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀   ║
    ╚══════════════════════════════╝
-   > root@YOUR-USERNAME:~$ whoami
+   > root@loganrsilvers:~$ whoami
 </pre>
 
 </div>
@@ -73,10 +73,10 @@ reach_me: "you@example.com"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=loganrsilvers&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganrsilvers&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" width="35%" />
 
-<img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=39FF6A" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=loganrsilvers&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=39FF6A" width="60%" />
 
 </div>
 
@@ -87,7 +87,7 @@ reach_me: "you@example.com"
 <div align="center">
 
 <!--START_SECTION:activity-->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0D1117&color=00FF41&line=00FF41&point=39FF6A&area=true&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=loganrsilvers&bg_color=0D1117&color=00FF41&line=00FF41&point=39FF6A&area=true&hide_border=true" width="90%" />
 <!--END_SECTION:activity-->
 
 </div>
@@ -103,7 +103,7 @@ reach_me: "you@example.com"
   It renders your real commit calendar as a "snake" eating your contribution squares.
   Once the Action runs once, this image will populate automatically.
 -->
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" width="90%" alt="Snake animation eating contribution graph" />
+<img src="https://raw.githubusercontent.com/loganrsilvers/loganrsilvers/output/github-contribution-grid-snake.svg" width="90%" alt="Snake animation eating contribution graph" />
 
 </div>
 
@@ -113,7 +113,7 @@ reach_me: "you@example.com"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=matrix&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=loganrsilvers&theme=matrix&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -123,13 +123,14 @@ reach_me: "you@example.com"
 
 ```
 01000111 01101111 01101111 01100100 01100010 01111001 01100101
-> connection closed by root@YOUR-USERNAME
+> connection closed by root@loganrsilvers
 > thanks for scrolling this far. now go build something.
 ```
 
 ![Snake animation](https://img.shields.io/badge/status-online-00FF41?style=flat-square)
 
 </div>
+
 
 <!--
 **loganrsilvers/loganrsilvers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
