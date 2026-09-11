@@ -5,32 +5,6 @@
  ░▒▓█ LOADING PROFILE: loganrsilvers
  ░▒▓█ 01001000 01101001 00100001
 ```
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Your+Name;Software+Engineer;Building+things+that+ship;01001000 01100101 01101100 01101100 01101111" alt="Typing SVG" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=loganrsilvers&color=00FF41&style=flat-square&label=TRANSMISSIONS+RECEIVED)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=flat-square&logo=linkedin&logoColor=000)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-00FF41?style=flat-square&logo=gmail&logoColor=000)](mailto:you@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=flat-square&logo=firefox&logoColor=000)](https://yoursite.dev)
-
-</div>
-
-<div align="center">
-
-<pre>
-   ╔══════════════════════════════╗
-   ║   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄   ║
-   ║   █░░░░░░░░░░░░░░░░░░░░░░█   ║
-   ║   █░░▄▄░░░░░░░░░░░░░▄▄░░█   ║
-   ║   █░░██░░░░░░░░░░░░░██░░█   ║
-   ║   █░░░░░░░░▄▄▄▄▄░░░░░░░█   ║
-   ║   █░░░░░░░█░░░░░█░░░░░░█   ║
-   ║   █░░░░░░░░▀▀▀▀▀░░░░░░░█   ║
-   ║   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀   ║
-   ╚══════════════════════════════╝
-   > root@loganrsilvers:~$ whoami
-</pre>
-
 </div>
 
 ---
