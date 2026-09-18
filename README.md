@@ -3,9 +3,9 @@
   --------------------------------
   OS       : Senior @ Columbia College Chicago ('27)
   Stack    : C# / .NET Core, PHP, SQL, Blazor, Web APIs
-  Focus    : Full-Stack Web Dev
-  Location : Chicago, IL 📍
-  Status   : Open to Junior Software Engineer Roles 🚀
+  Focus    : Full-Stack Web + Application Dev
+  Location : Chicago, IL 
+  Status   : Open to Junior SWE + Application Development Roles 
 ```
 
 <!--
