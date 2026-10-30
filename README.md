@@ -5,5 +5,5 @@
   Stack    : C# / .NET Core, PHP, SQL, Blazor, Web APIs
   Focus    : Full-Stack Web + Application Dev
   Location : Chicago, IL
-  Status   : Open to SWE + Application Development Internships 
+  Status   : Seeking new-grad SWE roles, starting summer 2027
 ```
